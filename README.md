@@ -76,7 +76,8 @@ return 0;
 
 ## Simulating Caesar Cipher:
 
-![Screenshot 2024-09-02 080824](https://github.com/user-attachments/assets/9b18a6c7-3bf5-4f25-9dea-ff59389d9c7e)
+![Screenshot 2024-09-02 103209](https://github.com/user-attachments/assets/b12b13e4-04f3-4256-86c9-d29a89e6dbfd)
+
 
 ## RESULT:
 The program is executed successfully
@@ -235,13 +236,7 @@ SIZE];
 
 ## Simulating Play Fair Cipher:
 
-encryption:
-
-![Screenshot 2024-09-02 133106](https://github.com/user-attachments/assets/3dc74165-81d8-4223-ba87-40ab7361d6b3)
-
-decryption:
-
-![Screenshot 2024-09-02 133220](https://github.com/user-attachments/assets/b88b507d-f27e-421d-a28b-e6d2f8401fa7)
+![Screenshot 2024-09-02 104145](https://github.com/user-attachments/assets/94fb97a9-e324-4389-9545-99c8de0365da)
 
 
 ## RESULT:
@@ -375,7 +370,8 @@ invkeymat[2][2];
 
 ## Simulating Hill Cipher
 
-![Screenshot 2024-09-02 133441](https://github.com/user-attachments/assets/a020c126-c111-4b1e-b376-b34f089bc631)
+![Screenshot 2024-09-02 104504](https://github.com/user-attachments/assets/a3f4a7cf-c278-4805-ba28-ce652f393fd0)
+
 
 ## RESULT:
 
@@ -491,7 +487,7 @@ void decipher() {
 
 ## Simulating Vigenere Cipher
 
-![Screenshot 2024-09-02 133743](https://github.com/user-attachments/assets/88468fc6-0375-423e-86fc-06100d4d7280)
+![Screenshot 2024-09-02 104818](https://github.com/user-attachments/assets/a13b2e51-58ba-4def-a7a2-963ba2081e1b)
 
 
 ## RESULT:
@@ -639,7 +635,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![Uploading Screenshot 2024-09-02 134149.png…]()
+![Screenshot 2024-09-02 104927](https://github.com/user-attachments/assets/e8fbbfc7-ba66-438a-b9a3-df54f03b8b55)
 
 
 ## RESULT:
